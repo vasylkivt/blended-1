@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blended-1/static/css/main.17654e45.css",
+    "main.js": "/blended-1/static/js/main.aa954f90.js",
+    "index.html": "/blended-1/index.html",
+    "main.17654e45.css.map": "/blended-1/static/css/main.17654e45.css.map",
+    "main.aa954f90.js.map": "/blended-1/static/js/main.aa954f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.aa954f90.js"
+  ]
+}
